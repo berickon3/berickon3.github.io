@@ -1,3 +1,4 @@
-title: My Project
-description: A brief description of the project
-theme: jekyll-theme-cayman
+title: Signal Intelegence Stack
+description: A minilab designed to handle RF spectrum intelligence.
+theme: jekyll-theme-midnight
+author: Brett Erickson

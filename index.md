@@ -3,7 +3,7 @@ layout: default
 title: Welcome
 ---
 
-# My Project
+# Signal Intelligence Minilab
 
 This is my awesome project. Here's what it does:
 
